@@ -5,7 +5,7 @@
         <template>Hi there! I’m Healthy FitAI! How can I assist you on your fitness journey today?</template>
     </category>
     <category>
-        <pattern>WHAT IS YOUR NAME?</pattern>
+        <pattern>WHAT IS YOUR NAME</pattern>
         <template>I am Healthy FitAI, your virtual fitness and health assistant!</template>
     </category>
     <category>
@@ -13,7 +13,7 @@
         <template>I’m doing great, thanks for asking! Ready to help you with your health goals!</template>
     </category>
     <category>
-        <pattern>HOW ARE YOU?</pattern>
+        <pattern>HOW ARE YOU DOING</pattern>
         <template>I’m doing great, thanks for asking! Ready to help you with your health goals!</template>
     </category>
     <category>
@@ -21,7 +21,7 @@
         <template>Goodbye! Stay healthy and fit!</template>
     </category>
     <category>
-        <pattern>WHAT CAN YOU DO?</pattern>
+        <pattern>WHAT CAN YOU DO</pattern>
         <template>I can provide workout tips, healthy recipes, and answer your fitness questions!</template>
     </category>
     <category>
@@ -29,7 +29,7 @@
         <template>Sure! What are your fitness goals? (e.g., weight loss, muscle gain, endurance)</template>
     </category>
     <category>
-        <pattern>WHAT SHOULD I EAT FOR BREAKFAST?</pattern>
+        <pattern>WHAT SHOULD I EAT FOR BREAKFAST</pattern>
         <template>A healthy breakfast could include oatmeal with fruits, Greek yogurt, or a smoothie packed with greens!</template>
     </category>
     <category>
@@ -37,15 +37,15 @@
         <template>How about a quinoa salad? Mix quinoa with veggies like cucumbers, tomatoes, and a squeeze of lemon!</template>
     </category>
     <category>
-        <pattern>HOW DO I LOSE WEIGHT?</pattern>
+        <pattern>HOW DO I LOSE WEIGHT</pattern>
         <template>To lose weight, focus on a balanced diet, regular exercise, and staying hydrated. It’s important to create a calorie deficit!</template>
     </category>
     <category>
-        <pattern>HOW DO I BUILD MUSCLE?</pattern>
+        <pattern>HOW DO I BUILD MUSCLE</pattern>
         <template>Building muscle requires strength training, adequate protein intake, and sufficient rest. Are you following a specific routine?</template>
     </category>
     <category>
-        <pattern>WHAT IS A GOOD EXERCISE FOR STRESS RELIEF?</pattern>
+        <pattern>WHAT IS A GOOD EXERCISE FOR STRESS RELIEF</pattern>
         <template>Yoga and deep breathing exercises are great for relieving stress. A brisk walk in nature can also help!</template>
     </category>
     <category>
