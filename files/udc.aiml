@@ -8,10 +8,6 @@
         <pattern>WHAT IS YOUR NAME</pattern>
         <template>I am Healthy FitAI, your virtual fitness and health assistant!</template>
     </category>
-       <category>
-       <pattern>healthy foods</pattern>
-       <template>there many healthy food to eat,some are oats,salad, dry furits, dates ... etc</template>
-   </category>
     <category>
         <pattern>HOW ARE YOU</pattern>
         <template>I’m doing great, thanks for asking! Ready to help you with your health goals!</template>
@@ -24,10 +20,6 @@
         <pattern>BYE</pattern>
         <template>Goodbye! Stay healthy and fit!</template>
     </category>
-       <category>
-       <pattern>Hi</pattern>
-       <template>Hi there! I’m Healthy FitAI! How can I assist you on your fitness journey today?</template>
-   </category>
     <category>
         <pattern>WHAT CAN YOU DO</pattern>
         <template>I can provide workout tips, healthy recipes, and answer your fitness questions!</template>
