@@ -20,6 +20,10 @@
         <pattern>BYE</pattern>
         <template>Goodbye! Stay healthy and fit!</template>
     </category>
+       <category>
+       <pattern>Hi</pattern>
+       <template>Hi there! I’m Healthy FitAI! How can I assist you on your fitness journey today?</template>
+   </category>
     <category>
         <pattern>WHAT CAN YOU DO</pattern>
         <template>I can provide workout tips, healthy recipes, and answer your fitness questions!</template>
